@@ -18,6 +18,7 @@ package com.hexocraft.lib.refection.util;
 
  */
 
+import com.hexocraft.lib.reflection.util.ConstructorUtil;
 import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.Constructor;

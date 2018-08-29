@@ -18,8 +18,8 @@ package com.hexocraft.lib.refection.util;
 
  */
 
+import com.hexocraft.lib.reflection.util.FieldUtil;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.function.Executable;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

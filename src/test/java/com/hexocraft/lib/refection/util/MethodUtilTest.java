@@ -18,6 +18,7 @@ package com.hexocraft.lib.refection.util;
 
  */
 
+import com.hexocraft.lib.reflection.util.MethodUtil;
 import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.InvocationTargetException;

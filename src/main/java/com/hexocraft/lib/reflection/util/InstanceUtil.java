@@ -1,4 +1,4 @@
-package com.hexocraft.lib.refection.util;
+package com.hexocraft.lib.reflection.util;
 
 /*
 
@@ -21,7 +21,7 @@ package com.hexocraft.lib.refection.util;
 import java.lang.reflect.InvocationTargetException;
 import java.util.List;
 
-import static com.hexocraft.lib.refection.util.ConstructorUtil.*;
+import static com.hexocraft.lib.reflection.util.ConstructorUtil.*;
 
 
 public class InstanceUtil {
